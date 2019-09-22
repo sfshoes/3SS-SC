@@ -1911,8 +1911,49 @@ body {
 .cid-rCJy9DaCXX .mbr-section-btn {
   color: #232323;
 }
+.cid-rCOklX1umW {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rCOklX1umW h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rCOklX1umW p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rCOklX1umW .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-rCOklX1umW .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rCOklX1umW .card-title {
+  margin-bottom: 0;
+}
+.cid-rCOklX1umW .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-rCOklX1umW .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+@media (max-width: 300px) {
+  .cid-rCOklX1umW .card-img span {
+    font-size: 40px !important;
+  }
+}
 .cid-rCJCjoZXft {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
