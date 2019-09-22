@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "2social-clone",
+    "name": "3social-Caiazzo",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,7 @@
     "siteFonts": [],
     "uniqCompNum": 26,
     "versionPublish": "4.10.8",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-b2w-128x128.png",
     "noImageResize": "",
     "google-analytics": "<!-- Facebook Pixel Code -->\r\n<script>\r\n  !function(f,b,e,v,n,t,s)\r\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n  n.queue=[];t=b.createElement(e);t.async=!0;\r\n  t.src=v;s=b.getElementsByTagName(e)[0];\r\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\r\n  'https://connect.facebook.net/en_US/fbevents.js');\r\n  fbq('init', '413016852753397');\r\n  fbq('track', 'PageView');\r\n</script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\n  src=\"https://www.facebook.com/tr?id=413016852753397&ev=PageView&noscript=1\"\r\n/></noscript>\r\n<!-- End Facebook Pixel Code -->\r\n\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142438050-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142438050-2');\r\n</script>\r\n",
     "screenshot": "screenshot.png"
@@ -46,8 +46,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "2 Sapato Social Milão Siena Original + Cinto Social Frete Grátis 12x ",
-        "meta_descr": "2 pares + Cinto Social por R$99,90 - Frete Grátis",
+        "title": "3 Sapato Social Caiazzo Super Comfort - Frete Grátis",
+        "meta_descr": "3 pares de Sapato Social por R$249,90 - Frete Grátis",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
